@@ -83,6 +83,8 @@ var friendsArr = [
     }
 ]
 
+module.exports = friendsArr;
+
 
 
 // $(document).ready(function(){
